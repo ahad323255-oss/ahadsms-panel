@@ -1,0 +1,6 @@
+{
+  "name": "ahadsms-lamix-panel",
+  "version": "1.0.0",
+  "main": "api/lamix.js",
+  "dependencies": {}
+}
